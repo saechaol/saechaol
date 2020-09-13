@@ -1,6 +1,6 @@
 ### saechaol
 
-I'm a 4th year computer science student at Sacramento State. Graduating Spring 2021.
+I'm a 5th year computer science student at Sacramento State. Graduating Spring 2021.
 
 <!--
 **saechaol/saechaol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

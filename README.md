@@ -1,6 +1,6 @@
 ### saechaol
 
-I'm a 5th year computer science student at Sacramento State. Graduating Spring 2021, seeking full time employment. Resume available upon request.
+I'm a senior computer science student at Sacramento State. Graduating Spring 2021, seeking full time employment. Resume available upon request.
 
 <!--
 **saechaol/saechaol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

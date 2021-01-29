@@ -1,6 +1,6 @@
 # saechaol
 
-I'm a graduating senior from Sacramento State, earning my degree in Computer Science with a certificate in Game Engineering in May 2021, seeking full time employment.
+I'm a graduating senior at Sacramento State, and will earn my B.S. in Computer Science with a certificate in Game Engineering in May 2021.
 
 ## Selected Projects
 

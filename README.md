@@ -6,6 +6,8 @@ I'm a graduating senior from Sacramento State, earning my degree in Computer Sci
 
 ### [Capstone Project: TrafficSim](https://pastachefs.github.io/trafficsim/) **(To be completed: April 2021)**
 
+<img alt="Screenshot of a car in-game" src="https://pastachefs.github.io/trafficsim/assets/img/about.png">
+
 [TrafficSim](https://pastachefs.github.io/trafficsim/) is a virtual reality application built on Unreal 4.23 (C++) for the Oculus Rift, controlled using a Logitech steering wheel input, developed by myself and my team. It is designed as a product to enable researchers to observe and model driver behavior and interactions in a realistic setting. The application presents to the user several different prebuilt maps to choose from, and also includes a built-in map editor, both of which are intended to be used by our client, with little technical ability required to use the software. While similar driving simulation tools already exist, this VR application comes without the same cost overhead to our client as dedicated driving simulation hardware, as the costs incurred for this project would be the Oculus and VR ready computer.
 
 When the player is seated into the game world, they are loaded into any of the pre-built or user made maps, and every action, reaction or input made is logged into an external spreadsheet for further statistical analysis. The player is able to drive around in the various conditions, time of day, and road hazards, as well as interact with and avoid neighboring NPC cars.
@@ -24,7 +26,9 @@ I am also responsible for maintaining the project website.
 
 ### [Mobile Learning Application](https://github.com/saechaol/learning-app) **(Completed December 2020)**
 
-#### The EC2 instance containing the .NET application providing the web service is currently suspended to reduce costs at my personal expense.
+#### The EC2 instance containing the .NET application providing the web service is currently suspended to reduce costs at my personal expense. In lieu of this, the following video demos some of the features described in this project [[demo link](https://youtu.be/YFPar6fbaAc)]
+
+<img alt="Application home page screenshot showing Students, Courses, and Instructors category buttons" src="https://github.com/saechaol/learning-app/blob/main/image.png" width=35% height=35%>
 
 A [learning application](https://github.com/saechaol/learning-app), build using Android Studio and Visual Studio which supports registration, communication, and task scheduling, that communicates directly with an AWS EC2 instance with a .NET application providing a REST API endpoint and an RDS backend layer. The application client itself is built using Java, and it connects to an RDS instance which stores user information, class schedules, and tasks.
 
@@ -32,9 +36,13 @@ There are several API controllers implemented in C++ in the .NET application tha
 
 ### [Postcards](https://github.com/saechaol/fullstack-vue-graphql-web-app) (To be completed: February 2021)
  
+ <img alt="Figma prototype screenshot showing an example post with likes, title, and a description" src="https://github.com/saechaol/fullstack-vue-graphql-web-app/blob/master/readme_images/3.png">
+ 
 I am currently working on building a responsive full-stack web application named [Postcards](https://github.com/saechaol/fullstack-vue-graphql-web-app) that supports secure user signup, login, authentication, photo posting, tagging, liking and commenting, using the Vue.js framework on the frontend and MongoDB Atlas on the backend. Data is fetched and mutated through GraphQL API endpoint that interfaces with the database. The project is prototyped on Figma and I am expecting to complete it by mid-February. 
 
 ### [Simple iOS Calculator](https://github.com/saechaol/ios-calculator) **(Completed October 2020)**
+
+<img alt="Calculator screenshot" src="https://github.com/saechaol/ios-calculator/blob/main/Asset/Screenshot.png" width=35% height=35%>
 
 [Simple iOS Calculator](https://github.com/saechaol/ios-calculator) is a small side-project to practice iOS development and Swift. It is a simple calculator app that supports basic arithmetic operations (addition, subtraction, multiplication, division, modulo), single-line history, deletion, and unit conversion between octal, decimal, binary, and hexadecimal formats. It also supports bitwise operations including AND, OR, XOR, and NOT.
 

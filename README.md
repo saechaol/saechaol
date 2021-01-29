@@ -49,7 +49,7 @@ I am currently working on building a responsive full-stack web application named
 ## Ongoing Coursework
 
 The following is/are a rolling/tentative list of other projects planned as per my coursework for the current semester:
-* [An OpenGL application](https://github.com/saechaol/csc-155) to render a 3D scene which will incorporate shadow mapping, a skybox, normal mapping, tessellation shaders, geometry shaders for primitive modification, atmospheric fog and opacity, environment mapping, 3D textures/perlin noise generation, stereoscopy with distortion correction, fresnel reflection, light refraction, and ray tracing. 
+* [An OpenGL application](https://github.com/saechaol/csc-155) to render a 3D scene which will incorporate shadow mapping, a skybox, normal mapping, tessellation shaders, geometry shaders for primitive modification, atmospheric fog and opacity, environment mapping, 3D textures/perlin noise generation, stereoscopy with distortion correction, fresnel reflection, light refraction, and ray tracing. The project will be hosted on the linked repository.
 
 <!--
 **saechaol/saechaol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

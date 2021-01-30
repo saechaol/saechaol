@@ -30,7 +30,7 @@ I am also responsible for maintaining the project website.
 
 <img alt="Application home page screenshot showing Students, Courses, and Instructors category buttons" src="https://github.com/saechaol/learning-app/blob/main/image.png" width=35% height=35%>
 
-A [learning application](https://github.com/saechaol/learning-app), build using Android Studio and Visual Studio which supports registration, communication, and task scheduling, that communicates directly with an AWS EC2 instance with a .NET application providing a REST API endpoint and an RDS backend layer. The application client itself is built using Java, and it connects to an RDS instance which stores user information, class schedules, and tasks.
+A [learning application](https://github.com/saechaol/learning-app), built using Android Studio and Visual Studio which supports registration, communication, and task scheduling, that communicates directly with an AWS EC2 instance with a .NET application providing a REST API endpoint and an RDS backend layer. The application client itself is built using Java, and it connects to an RDS instance which stores user information, class schedules, and tasks.
 
 There are several API controllers implemented in C++ in the .NET application that the client uses to fetch data relevent to each screen, as well as update user, subject, and task information to the database. Each POST method is protected using an implicit transactions to prevent mishandling of data should the service be interrupted mid-request. The webservice itself is load balanced using AWS's built in featureset for EC2 instances, and SSL certificate to serve the endpoint over HTTPS.
 

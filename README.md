@@ -1,3 +1,3 @@
 # saechaol
 
-I'm a graduating senior at Sacramento State, and will earn my B.S. in Computer Science with a certificate in Game Engineering in May 2021. [Check out my website to see my projects and learn more about me!](https://saechaol.com)
+I'm an iOS developer with experience in computer graphics, AI/ML, and mobile application development. [Check out my website to see my projects and learn more about me!](https://saechaol.com)
